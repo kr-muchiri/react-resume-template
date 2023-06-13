@@ -1,11 +1,11 @@
 {
-  "name": "react-resume-template",
-  "short_name": "react-resume-template",
+  "name": "Muchiri's Personal Portfolio",
+  "short_name": "Muchiri's Portfolio",
   "icons": [
     {"src": "/icon-192.png", "type": "image/png", "sizes": "192x192"},
     {"src": "/icon-512.png", "type": "image/png", "sizes": "512x512"}
   ],
-  "theme_color": "#515455",
-  "background_color": "#515455",
+  "theme_color": "#D4AF37",
+  "background_color": "#800080",
   "display": "standalone"
 }
